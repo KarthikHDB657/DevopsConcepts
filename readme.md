@@ -1,6 +1,6 @@
 # DevOps for Beginners - Docker, Kubernetes, Terraform and Azure Devops
 
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
+
 
 
 ## Learn Devops with Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
